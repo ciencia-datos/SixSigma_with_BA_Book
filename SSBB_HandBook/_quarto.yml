@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "SixSigma BlackBelt with Business Analytics"
+  author: "Mallesham Yamulla"
+  date: "9/8/2024"
+  chapters:
+    - index.qmd
+    - ISI_SSBBA_Book.qmd
+    - SSBBA_W2.ipynb
+    - SSBBA_W3.ipynb
+    - SSBBA_W4.ipynb
+    - ISI_SSBB_BA_PE_CODE.ipynb
+    - ISI_SSBB_BA_FinalExam_Code_2024.ipynb
+    
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+

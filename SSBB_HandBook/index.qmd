@@ -1,0 +1,16 @@
+# Preface {.unnumbered}
+
+I have contributed to data breach analysis projects using Six Sigma and analytics methodologies,trained under Professor Murali Rao Garimella at the Indian Statistical Institute Hyderabad.
+
+Currently developing a guide on applying Six Sigma and Business Analytics for data-driven problem-solving.
+
+This repository contains resources, code snippets, and case studies related to my research on Six Sigma and Business Analytics methodologies.
+
+
+# Certificate
+
+![SSBB-BA-Certificate](cert_ssbba.jpg){width=600px}
+
+![SSBB-BA-Syllabus](cert_ssbba_syb.jpg){width=600px}
+
+![SSBB-BA-Result-Email](cert_ssbba_email.png){width=600px}
